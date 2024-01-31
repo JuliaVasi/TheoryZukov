@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGwnBhjEcTfbYZQB1NstFiT4ge490S4XWV5CMcRvvJBUvyitPJ0VIPsh5KQk04Az61ozj8w8S+bIRPXJHKaJCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dimas\\Desktop\\pdf-20231117T042525Z-001\\pdf\\pdf\\pdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimas\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\dimas\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.117\\stub.system.data.sqlite.core.netframework.1.0.117.nupkg.sha512",
+    "C:\\Users\\dimas\\.nuget\\packages\\system.data.sqlite\\1.0.117\\system.data.sqlite.1.0.117.nupkg.sha512",
+    "C:\\Users\\dimas\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512",
+    "C:\\Users\\dimas\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.117\\system.data.sqlite.ef6.1.0.117.nupkg.sha512",
+    "C:\\Users\\dimas\\.nuget\\packages\\system.data.sqlite.linq\\1.0.117\\system.data.sqlite.linq.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,347 @@
+﻿namespace Teoriya_veroyatnosty.Forms
+{
+    partial class Search
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Search));
+            this.RightMenu = new System.Windows.Forms.FlowLayoutPanel();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.TimerMenu = new System.Windows.Forms.Timer(this.components);
+            this.CloseFormBTN = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.MenuBTN = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.ListBTN = new System.Windows.Forms.Button();
+            this.TestBTN = new System.Windows.Forms.Button();
+            this.CalcBTN = new System.Windows.Forms.Button();
+            this.AboutBTN = new System.Windows.Forms.Button();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.RightMenu.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.panel9.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel4.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.panel6.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // RightMenu
+            // 
+            this.RightMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
+            this.RightMenu.Controls.Add(this.panel1);
+            this.RightMenu.Controls.Add(this.panel7);
+            this.RightMenu.Controls.Add(this.panel9);
+            this.RightMenu.Controls.Add(this.panel2);
+            this.RightMenu.Controls.Add(this.panel4);
+            this.RightMenu.Controls.Add(this.panel3);
+            this.RightMenu.Controls.Add(this.panel6);
+            this.RightMenu.Controls.Add(this.panel8);
+            this.RightMenu.Dock = System.Windows.Forms.DockStyle.Left;
+            this.RightMenu.Location = new System.Drawing.Point(0, 60);
+            this.RightMenu.MaximumSize = new System.Drawing.Size(240, 620);
+            this.RightMenu.MinimumSize = new System.Drawing.Size(75, 620);
+            this.RightMenu.Name = "RightMenu";
+            this.RightMenu.Size = new System.Drawing.Size(75, 620);
+            this.RightMenu.TabIndex = 1;
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(84)))), ((int)(((byte)(16)))));
+            this.panel1.Controls.Add(this.MenuBTN);
+            this.panel1.Location = new System.Drawing.Point(3, 3);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(233, 100);
+            this.panel1.TabIndex = 1;
+            // 
+            // panel7
+            // 
+            this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
+            this.panel7.Location = new System.Drawing.Point(3, 109);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(233, 32);
+            this.panel7.TabIndex = 6;
+            // 
+            // panel9
+            // 
+            this.panel9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(97)))), ((int)(((byte)(16)))));
+            this.panel9.Controls.Add(this.button1);
+            this.panel9.Location = new System.Drawing.Point(3, 147);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(233, 60);
+            this.panel9.TabIndex = 3;
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(97)))), ((int)(((byte)(16)))));
+            this.panel2.Controls.Add(this.ListBTN);
+            this.panel2.Location = new System.Drawing.Point(3, 213);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(233, 60);
+            this.panel2.TabIndex = 2;
+            // 
+            // panel4
+            // 
+            this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(97)))), ((int)(((byte)(16)))));
+            this.panel4.Controls.Add(this.TestBTN);
+            this.panel4.Location = new System.Drawing.Point(3, 279);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(233, 60);
+            this.panel4.TabIndex = 4;
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(97)))), ((int)(((byte)(16)))));
+            this.panel3.Controls.Add(this.CalcBTN);
+            this.panel3.Location = new System.Drawing.Point(3, 345);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(233, 60);
+            this.panel3.TabIndex = 3;
+            // 
+            // panel6
+            // 
+            this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(97)))), ((int)(((byte)(16)))));
+            this.panel6.Controls.Add(this.AboutBTN);
+            this.panel6.Location = new System.Drawing.Point(3, 411);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(233, 60);
+            this.panel6.TabIndex = 5;
+            // 
+            // panel8
+            // 
+            this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
+            this.panel8.Location = new System.Drawing.Point(3, 477);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(233, 32);
+            this.panel8.TabIndex = 7;
+            // 
+            // TimerMenu
+            // 
+            this.TimerMenu.Interval = 15;
+            this.TimerMenu.Tick += new System.EventHandler(this.SetTimer);
+            // 
+            // CloseFormBTN
+            // 
+            this.CloseFormBTN.BackColor = System.Drawing.Color.Transparent;
+            this.CloseFormBTN.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.CloseFormBTN.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.CloseFormBTN.ForeColor = System.Drawing.Color.Red;
+            this.CloseFormBTN.Location = new System.Drawing.Point(972, 7);
+            this.CloseFormBTN.Name = "CloseFormBTN";
+            this.CloseFormBTN.Size = new System.Drawing.Size(25, 25);
+            this.CloseFormBTN.TabIndex = 2;
+            this.CloseFormBTN.Text = "X";
+            this.CloseFormBTN.UseVisualStyleBackColor = false;
+            this.CloseFormBTN.Click += new System.EventHandler(this.CloseFormBTN_Click);
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.Transparent;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button3.ForeColor = System.Drawing.Color.Black;
+            this.button3.Location = new System.Drawing.Point(941, 7);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(25, 25);
+            this.button3.TabIndex = 5;
+            this.button3.Text = "-";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // MenuBTN
+            // 
+            this.MenuBTN.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(146)))), ((int)(((byte)(204)))));
+            this.MenuBTN.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.MenuBTN.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.MenuBTN.ForeColor = System.Drawing.Color.Black;
+            this.MenuBTN.Image = global::Teoriya_veroyatnosty.Properties.Resources.list_menu_document_burger_icon_226588;
+            this.MenuBTN.Location = new System.Drawing.Point(-35, -15);
+            this.MenuBTN.Name = "MenuBTN";
+            this.MenuBTN.Size = new System.Drawing.Size(331, 131);
+            this.MenuBTN.TabIndex = 3;
+            this.MenuBTN.Text = "     MENU";
+            this.MenuBTN.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.MenuBTN.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.MenuBTN.UseVisualStyleBackColor = false;
+            this.MenuBTN.Click += new System.EventHandler(this.MenuBTN_Click);
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(146)))), ((int)(((byte)(204)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button1.Image = global::Teoriya_veroyatnosty.Properties.Resources._3643769_building_home_house_main_menu_start_113416;
+            this.button1.Location = new System.Drawing.Point(-40, -14);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(400, 89);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "     ГЛАВНОЕ ОКНО";
+            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // ListBTN
+            // 
+            this.ListBTN.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(146)))), ((int)(((byte)(204)))));
+            this.ListBTN.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.ListBTN.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.ListBTN.Image = global::Teoriya_veroyatnosty.Properties.Resources.file_text_icon_184980;
+            this.ListBTN.Location = new System.Drawing.Point(-41, -14);
+            this.ListBTN.Name = "ListBTN";
+            this.ListBTN.Size = new System.Drawing.Size(390, 89);
+            this.ListBTN.TabIndex = 3;
+            this.ListBTN.Text = "     ОГЛАВЛЕНИЕ";
+            this.ListBTN.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.ListBTN.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.ListBTN.UseVisualStyleBackColor = false;
+            this.ListBTN.Click += new System.EventHandler(this.ListBTN_Click);
+            // 
+            // TestBTN
+            // 
+            this.TestBTN.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(146)))), ((int)(((byte)(204)))));
+            this.TestBTN.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.TestBTN.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.TestBTN.Image = global::Teoriya_veroyatnosty.Properties.Resources.checkbox_checked_regular_icon_205496;
+            this.TestBTN.Location = new System.Drawing.Point(-40, -14);
+            this.TestBTN.Name = "TestBTN";
+            this.TestBTN.Size = new System.Drawing.Size(322, 89);
+            this.TestBTN.TabIndex = 3;
+            this.TestBTN.Text = "     ТЕСТ";
+            this.TestBTN.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.TestBTN.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.TestBTN.UseVisualStyleBackColor = false;
+            this.TestBTN.Click += new System.EventHandler(this.TestBTN_Click);
+            // 
+            // CalcBTN
+            // 
+            this.CalcBTN.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(146)))), ((int)(((byte)(204)))));
+            this.CalcBTN.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.CalcBTN.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.CalcBTN.Image = global::Teoriya_veroyatnosty.Properties.Resources.calculator_3534;
+            this.CalcBTN.Location = new System.Drawing.Point(-40, -14);
+            this.CalcBTN.Name = "CalcBTN";
+            this.CalcBTN.Size = new System.Drawing.Size(390, 89);
+            this.CalcBTN.TabIndex = 3;
+            this.CalcBTN.Text = "     КАЛЬКУЛЯТОР";
+            this.CalcBTN.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.CalcBTN.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.CalcBTN.UseVisualStyleBackColor = false;
+            this.CalcBTN.Click += new System.EventHandler(this.CalcBTN_Click);
+            // 
+            // AboutBTN
+            // 
+            this.AboutBTN.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(146)))), ((int)(((byte)(204)))));
+            this.AboutBTN.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.AboutBTN.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.AboutBTN.Image = global::Teoriya_veroyatnosty.Properties.Resources.info_icon_173071;
+            this.AboutBTN.Location = new System.Drawing.Point(-40, -14);
+            this.AboutBTN.Name = "AboutBTN";
+            this.AboutBTN.Size = new System.Drawing.Size(390, 89);
+            this.AboutBTN.TabIndex = 3;
+            this.AboutBTN.Text = "     О ПРОГРАММЕ";
+            this.AboutBTN.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.AboutBTN.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.AboutBTN.UseVisualStyleBackColor = false;
+            this.AboutBTN.Click += new System.EventHandler(this.AboutBTN_Click);
+            // 
+            // panel10
+            // 
+            this.panel10.Location = new System.Drawing.Point(972, 672);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(65, 59);
+            this.panel10.TabIndex = 26;
+            // 
+            // panel5
+            // 
+            this.panel5.Location = new System.Drawing.Point(341, 25);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(323, 36);
+            this.panel5.TabIndex = 15;
+            // 
+            // Search
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1000, 700);
+            this.ControlBox = false;
+            this.Controls.Add(this.panel5);
+            this.Controls.Add(this.panel10);
+            this.Controls.Add(this.RightMenu);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.CloseFormBTN);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "Search";
+            this.Padding = new System.Windows.Forms.Padding(0, 60, 20, 20);
+            this.Style = MetroFramework.MetroColorStyle.Blue;
+            this.Text = "Основы теории вероятностей";
+            this.TextAlign = System.Windows.Forms.VisualStyles.HorizontalAlign.Center;
+            this.Load += new System.EventHandler(this.Search_Load);
+            this.RightMenu.ResumeLayout(false);
+            this.panel1.ResumeLayout(false);
+            this.panel9.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.panel4.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.panel6.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.FlowLayoutPanel RightMenu;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button MenuBTN;
+        private System.Windows.Forms.Panel panel7;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Button ListBTN;
+        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Button TestBTN;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Button CalcBTN;
+        private System.Windows.Forms.Panel panel6;
+        private System.Windows.Forms.Button AboutBTN;
+        private System.Windows.Forms.Panel panel8;
+        private System.Windows.Forms.Panel panel9;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Timer TimerMenu;
+        private System.Windows.Forms.Button CloseFormBTN;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.Panel panel5;
+    }
+}

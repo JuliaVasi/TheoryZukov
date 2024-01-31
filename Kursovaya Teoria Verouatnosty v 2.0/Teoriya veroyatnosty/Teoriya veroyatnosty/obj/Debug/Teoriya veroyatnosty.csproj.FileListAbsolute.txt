@@ -1,0 +1,78 @@
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Teoriya veroyatnosty.exe.config
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Teoriya veroyatnosty.exe
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Teoriya veroyatnosty.pdb
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\MetroFramework.dll
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Properties.Resources.resources
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.CopyComplete
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.exe
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.pdb
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.MainForm.resources
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.Calculator.resources
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.TestForm.resources
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.About.resources
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.Search.resources
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter1.resources
+C:\Users\Home\Desktop\python_apps\с#\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.ContentForm.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Teoriya veroyatnosty.exe.config
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Teoriya veroyatnosty.exe
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Teoriya veroyatnosty.pdb
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\MetroFramework.dll
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter1.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.About.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.Calculator.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.ContentForm.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.MainForm.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.Search.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.TestForm.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Properties.Resources.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.CopyComplete
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.exe
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.pdb
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter2.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter3.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter4.resources
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.ResolveComReference.cache
+C:\Users\Home\Desktop\Kursovaya Teoria Verouatnosty\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter5.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Teoriya veroyatnosty.exe.config
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Teoriya veroyatnosty.exe
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Teoriya veroyatnosty.pdb
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\MetroFramework.dll
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\MetroFramework.Fonts.dll
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\Interop.WMPLib.dll
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\bin\Debug\AxInterop.WMPLib.dll
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.AssemblyReference.cache
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.SuggestedBindingRedirects.cache
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Interop.WMPLib.dll
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\AxInterop.WMPLib.dll
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.ResolveComReference.cache
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter1.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter2.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter3.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter4.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Content.Chapter5.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.About.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.Calculator.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.ContentForm.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.MainForm.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.Search.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Forms.TestForm.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya_veroyatnosty.Properties.Resources.resources
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.GenerateResource.cache
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.CoreCompileInputs.cache
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.csproj.CopyComplete
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.exe
+D:\Kursovaya Teoria Verouatnosty v 2.0\Teoriya veroyatnosty\Teoriya veroyatnosty\obj\Debug\Teoriya veroyatnosty.pdb
